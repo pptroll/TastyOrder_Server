@@ -6,6 +6,7 @@
 	// 자바파일이 필요하므로 위 코드처럼 임포트합니다.
 %>
 <%
+	String test = null;
 	String returns = null;
 	String type, businessnumber, topcategoryname, categoryname = null;
 	
